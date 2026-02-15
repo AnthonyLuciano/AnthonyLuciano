@@ -1,30 +1,23 @@
-# 👋 Olá, eu sou Anthony Luciano!
+# Olá, eu sou Anthony Luciano!
 
 ![](https://github.com/AnthonyLuciano/Krieglan/blob/main/gifs/gladgers-hacker-gers-guardians-of-galaxy.gif)
 
 Desenvolvedor back-end com experiência em Java e Python,conhecimento em C# e aprendendo Kotlin.
 
-## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <a href="https://github.com/AnthonyLuciano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnthonyLuciano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyLuciano&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+## Projetos Destacados
 
-## 🚀 Projetos Destacados
-
-### 1. 🤖 [DeepSeek CLI](https://github.com/AnthonyLuciano/deepseek-cli)
+### 1. [DeepSeek CLI](https://github.com/AnthonyLuciano/deepseek-cli)
 [![Arch Maintainer](https://img.shields.io/badge/Arch%20Maintainer-AUR-blue?style=for-the-badge&logo=arch-linux)](https://aur.archlinux.org/packages/deepseek-cli)
 
 Assistente de linha de comando para interagir com a API DeepSeek, desenvolvido em Python.
 
-### 2. 📚 [BibliotecaVirtual](https://github.com/AnthonyLuciano/BibliotecaVirtual)
+### 2. [BibliotecaVirtual](https://github.com/AnthonyLuciano/BibliotecaVirtual)
 [![Languages](https://img.shields.io/github/languages/count/AnthonyLuciano/BibliotecaVirtual?style=for-the-badge&logo=github)](https://github.com/AnthonyLuciano/BibliotecaVirtual)
 
 Sistema completo de gestão para bibliotecas universitárias desenvolvido em Java/Spring Boot.
 
-### 3. 💙 [HugMe Discord Bot](https://github.com/AnthonyLuciano/HugMe-DiscordBot)
+### 3. [HugMe Discord Bot](https://github.com/AnthonyLuciano/HugMe-DiscordBot)
 [![Last Commit](https://img.shields.io/github/last-commit/AnthonyLuciano/HugMe-DiscordBot?style=for-the-badge&logo=git)](https://github.com/AnthonyLuciano/HugMe-DiscordBot/commits/main)
 
 Bot de Discord para gerenciamento de doações via PIX com integração Mercado Pago.
@@ -41,12 +34,6 @@ Bot de Discord para gerenciamento de doações via PIX com integração Mercado 
 ### Tecnologias
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## 🌱 Próximos Objetivos
-
-- Dominar Kotlin para desenvolvimento Android
-- Aprofundar conhecimentos em arquitetura limpa
-- Expandir o projeto HugMe com novas funcionalidades
 
 ## 📫 Contato
 
