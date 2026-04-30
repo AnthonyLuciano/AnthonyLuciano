@@ -2,7 +2,7 @@
 
 ![](https://github.com/AnthonyLuciano/Krieglan/blob/main/gifs/gladgers-hacker-gers-guardians-of-galaxy.gif)
 
-Desenvolvedor back-end com experiência em Java e Python,conhecimento em C# e aprendendo Kotlin.
+Desenvolvedor back-end com experiência em Java e Python,conhecimento em C# e aprendendo o que vier a necessidade
 
 
 ## Projetos Destacados
@@ -29,7 +29,6 @@ Bot de Discord para gerenciamento de doações via PIX com integração Mercado 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) *(em aprendizado)*
 
 ### Tecnologias
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
